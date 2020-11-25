@@ -4,7 +4,7 @@
 
 ## Description  
 
-The Expert System (ES) will try to guess the NBA player the user chooses from three teams (limited list).  
+The Expert System (ES) will try to guess the NBA player the user chooses from three teams (limited list). The ES makes guesses based upon questions it asks the user to determine the player.  
 
 ## Assignment Instructions:  
 
